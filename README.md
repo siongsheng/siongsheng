@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Shaun!</h1>
 <h3 align="center">A passionate full-stack developer from Singapore</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js**, **Heroku**
 
 - 👨‍💻 All of my projects are available at [https://shaun-siong.herokuapp.com/](https://shaun-siong.herokuapp.com/)
 
