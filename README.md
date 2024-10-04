@@ -11,8 +11,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://go.dev/doc/" target="_blank"> <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2021/10/golang.png" alt="rust" width="60" height="40"/> </a> 
 <p align="left"> <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Original_Ferris.svg/1280px-Original_Ferris.svg.png" alt="rust" width="60" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.png" alt="mongodb" width="100" height="50"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" alt="mongodb" width="100" height="50"/> </a> 
 <a href="https://kafka.apache.org/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/kafka-icon-2048x935-cvu4503l.png" alt="kafka" width="80" height="40"/> </a> 
 <a href="https://solace.com/" target="_blank"> <img src="https://solace.com/wp-content/uploads/2019/01/Solace-logo-green.png" alt="kafka" width="100" height="30"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
