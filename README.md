@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Shaun!</h1>
 <h3 align="center">A passionate full-stack developer from Singapore</h3>
 
-- 🌱 I’m currently learning **Rust Lang**, **MQTT**, **Kafka**, **Spring Boot**
+- 🌱 I’m currently working on a (microservices) project that uses **Golang**, **Rust Lang**, **Redis**
 
 - 📫 I can be reached at **siongsheng@gmail.com**
 
